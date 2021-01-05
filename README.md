@@ -1,5 +1,6 @@
-👤 Software Engineering student at NHL Stenden.
+<p align="left" width="50%">
+  👤 Software Engineering student at NHL Stenden.
+  💕 C#, .NET, Gaming, Anime, Software Development, IOT, Music
+</p>
 
-💕 C#, .NET, Gaming, Anime, Software Development, IOT, Music
-
-✨ Currently mostly working on: Obsidian
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naamloos&exclude_repo=Meme-Clash&layout=compact"/>
