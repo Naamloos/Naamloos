@@ -1,5 +1,6 @@
 <p align="left" width="50%">
   👤 Software Engineering student at NHL Stenden.
+  <br>
   💕 C#, .NET, Gaming, Anime, Software Development, IOT, Music
 </p>
 
