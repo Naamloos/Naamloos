@@ -12,3 +12,7 @@
   <br>
   <a href="https://shrt.space/">🔗 WIP: shrt.space</a>
 </p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/378289515334336514/824784518053494854/dereferencing_a_null_pointer.gif"/>  
+</p>
