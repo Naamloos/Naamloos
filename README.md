@@ -8,7 +8,9 @@
 <p align="left">
   <a href="https://naamloos.dev/">🌍 My Website</a>
   <br>
-  <a href="https://ko-fi.com/Naamloos">☕ Buy me a coffee</a>
+  <a href="https://naamloos.dev/donate.html">💰 Donate?</a>
+  <br>
+  <a href="https://proost.app/">🍻 Proost (feestspel)</a>
   <br>
   <a href="https://shrt.space/">🔗 WIP: shrt.space</a>
 </p>
