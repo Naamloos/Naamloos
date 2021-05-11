@@ -16,5 +16,5 @@
 </p>
 
 <p align="center">
-  <img align="center" width="260px" src="https://cdn.discordapp.com/attachments/378289515334336514/824784518053494854/dereferencing_a_null_pointer.gif"/>  
+  <small><small><small>:)</small></small></small>
 </p>
