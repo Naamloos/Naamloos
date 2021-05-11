@@ -15,6 +15,6 @@
   <a href="https://shrt.space/">🔗 WIP: shrt.space</a>
 </p>
 
-<p align="center">
-  <small><small><small>:)</small></small></small>
+<p align="center" style="transform: rotate(-90deg)">
+  &#8203;&#776;&#860;
 </p>
