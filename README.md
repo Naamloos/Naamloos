@@ -1,6 +1,8 @@
 <p align="center">
   👤 Software Engineering student at NHL Stenden. 👤
   <br>
+  👤 Unity Developer at Provrex B.V. 👤
+  <br>
   💕 C#, .NET, Gaming, Anime, Software Development, IOT, Music 💕
 </p>
 <img src="https://imgur.com/khg8D75.gif" align="right"/>
