@@ -2,7 +2,7 @@
 <img src="https://imgur.com/khg8D75.gif" align="right"/>
 <img src="https://i.imgur.com/87TVr2Y.gif" align="left"/>
 <img src="https://imgur.com/khg8D75.gif" align="right"/>
-<br>
+<br><br><br><br><br><br><br>
 <p align="center">
 🎓 Software Engineering student at NHL Stenden. 🎓
   <br>
@@ -17,7 +17,7 @@
   | <a href="https://naamloos.dev/donate.html">💰 Donate?</a>
   | <a href="https://proost.app/">🍻 Proost (feestspel)</a>
 </p>
-<br>
+<br><br>
 <img src="https://i.imgur.com/87TVr2Y.gif" align="left"/>
 <img src="https://imgur.com/khg8D75.gif" align="right"/>
 <img src="https://i.imgur.com/87TVr2Y.gif" align="left"/>
