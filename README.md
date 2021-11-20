@@ -22,3 +22,6 @@
 <img src="https://imgur.com/khg8D75.gif" align="right"/>
 <img src="https://i.imgur.com/87TVr2Y.gif" align="left"/>
 <img src="https://imgur.com/khg8D75.gif" align="right"/>
+
+<br><br>
+<sub>The responsiveness of this README is horrible, please open on desktop lol</sub>
