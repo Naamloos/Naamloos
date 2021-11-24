@@ -1,8 +1,4 @@
-<img src="https://i.imgur.com/87TVr2Y.gif" align="left"/>
-<img src="https://imgur.com/khg8D75.gif" align="right"/>
-<img src="https://i.imgur.com/87TVr2Y.gif" align="left"/>
-<img src="https://imgur.com/khg8D75.gif" align="right"/>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br>
 <p align="center">
 🎓 Software Engineering student at NHL Stenden. 🎓
   <br>
@@ -10,7 +6,7 @@
   <br>
 💕 Gaming, Anime, Software Development, IOT, Music 💕
   <br>
-💻 C#, JavaScript, Python, C++, Java, PHP 💻
+💻 C#, JavaScript, Python, C++, Java, PHP, Rust 💻
 </p>
 <p align="center">
   <a href="https://naamloos.dev/">🌍 My Website</a>
@@ -18,10 +14,6 @@
   | <a href="https://proost.app/">🍻 Proost (feestspel)</a>
 </p>
 <br><br>
-<img src="https://i.imgur.com/87TVr2Y.gif" align="left"/>
-<img src="https://imgur.com/khg8D75.gif" align="right"/>
-<img src="https://i.imgur.com/87TVr2Y.gif" align="left"/>
-<img src="https://imgur.com/khg8D75.gif" align="right"/>
-
 <br><br>
-<sub>The responsiveness of this README is horrible, please open on desktop lol</sub>
+<br><br>
+<sub><sub>helo frend 😳💝</sub></sub>
