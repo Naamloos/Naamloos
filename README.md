@@ -6,7 +6,7 @@
   <br>
 💕 Gaming, Anime, Software Development, IOT, Music 💕
   <br>
-💻 C#, JavaScript, Python, C++, Java, PHP, Rust 💻
+💻 C#, JavaScript/TypeScript, Rust, C++, Python, PHP, Java 💻
 </p>
 <p align="center">
   <a href="https://naamloos.dev/">🌍 My Website</a>
