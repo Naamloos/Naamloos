@@ -1,5 +1,3 @@
-# About Me
-
 <img align="left" width="100" height="100" src="https://github.com/Naamloos/Naamloos/assets/12187179/4dd1e056-4336-49d3-a53f-e776f3a64ec9" alt="Image of a plushie of the Neon Genesis Evangelion character named Rei, wearing a suit, sitting behind a laptop">
 
 👤 **`Name`**  Ryan de Jonge
