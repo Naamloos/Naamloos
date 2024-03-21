@@ -1,31 +1,13 @@
-```ts
-import { Profile, Language } from 'identity';
+# About Me
 
-export const Naamloos : Profile = {
-  name: "Ryan de Jonge",
-  userName: "Naamloos",
-  programmingLanguages: [
-    { language: "C#", proficiency: "High" },
-    { language: "TypeScript/JavaScript", proficiency: "High" },
-    { language: "PHP", proficiency: "High" },
-    { language: "Java", proficiency: "High" },
-    { language: "Python", proficiency: "Intermediate" },
-    { language: "Rust", proficiency: "Intermediate" },
-    { language: "C++", proficiency: "Intermediate" }
-  ],
-  spokenLanguages: [
-    Language.English, 
-    Language.Dutch, 
-    Language.German
-  ],
-  jobInfo: {
-    role: "Software Developer",
-    company: "Provrex B.V."
-  },
-  educationInfo: {
-    university: "NHL Stenden University of Applied Sciences",
-    type: "Bachelor Information Technology (Software Engineering)",
-    completed: false,
-  }
-}
-```
+<img align="left" width="100" height="100" src="https://github.com/Naamloos/Naamloos/assets/12187179/4dd1e056-4336-49d3-a53f-e776f3a64ec9" alt="Image of a plushie of the Neon Genesis Evangelion character named Rei, wearing a suit, sitting behind a laptop">
+
+👤 **`Name`**  Ryan de Jonge
+<br>
+💬 **`Lang`**  Dutch, English, German
+<br>
+🧠 **`Know`**  C#, TS/JS, PHP, Java, Python, Rust, C/C++
+<br>
+💼 **`Does`**  Student in IT, Fullstack Software Engineer
+<br><br>
+<sup><sub><sup>so yeah that's basically it thanks for reading</sup></sub></sup>
