@@ -6,7 +6,7 @@
 <br>
 🧠 **`Know`**  C#, TS/JS, PHP, Java, Python, Rust, C/C++
 <br>
-💼 **`Does`**  IT Student, Fullstack Software Engineer
+💼 **`Does`**  Fulltime Fullstack Developer
 
 
 <sup><sub><sup>so yeah that's basically it thanks for reading</sup></sub></sup>
