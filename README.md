@@ -10,3 +10,7 @@
 
 
 <sup><sub><sup>so yeah that's basically it thanks for reading</sup></sub></sup>
+
+[![](https://img.shields.io/github/followers/naamloos?style=flat&color=violet)](https://github.com/Naamloos?tab=followers)
+[![](https://img.shields.io/github/sponsors/naamloos?logo=GitHub&color=red)](https://github.com/sponsors/Naamloos) 
+[![](https://img.shields.io/badge/my_portfolio-blue?label=❤&color=green)](https://naamloos.dev/)
